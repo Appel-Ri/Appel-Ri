@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Appel-Ri
 - 👀 I’m interested in public health data visualization.
 - 🍓 I’m a student at Oregon Health and Sciences Univeristy - Portland State University School of Public Health.
-- 🌱 I'm learning R & QGIS. 
+- 🌱 I'm learning R & QGIS and applying them to epidemiology. 
